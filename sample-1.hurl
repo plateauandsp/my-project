@@ -15,4 +15,3 @@ GET http://t.weather.itboy.net/api/weather/city/101130101
 HTTP 200
 [Asserts]
 jsonpath "$.data.quality" == "优"
-~                                 
