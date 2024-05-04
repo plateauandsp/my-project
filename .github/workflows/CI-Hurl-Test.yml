@@ -1,5 +1,4 @@
 name: CI-Hurl-Test
-​
 on:
   push:
     branches:
